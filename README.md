@@ -1,13 +1,14 @@
 <h2> Centro Academico - Engenharia de Software - IFAM Campus Zona Leste </h2>
 
-A nossa chapa tem objetivos bem simples e definidos:<br /><br />
-1 - Atender as principais demandas das turmas de Engenharia.<br />
-2 - Prover as melhorias das atividades acadêmicas.<br />
-3 - Fomentar maior participação dos discentes na vida acadêmica.<br />
+<img width="450" height="300" src="./public/images/foto-chapa.jpg" alt="caes-ifam-cmzl2023" />
 
-<img src="https://raw.githubusercontent.com/caes-ifam-cmzl/caes-ifam-cmzl-website/main/public/images/img-chapa-completa.jpg" alt="caes-ifam-cmzl2022" />
+A nossa chapa tem objetivos bem simples e definidos:<br />
 
-O CAES-IFAM-CMZL elaborou propostas dentro da realidade vivida pelos alunos e que contemplam nossos interesses frente ao Instituto. Assim, estruturamos nossa gestão buscando contemplar as áreas de Tecnologia, Finanças, Eventos, Comunicação e Cultura e Lazer.
+1. Atender as principais demandas das turmas de Engenharia.<br />
+2. Prover as melhorias das atividades acadêmicas.<br />
+3. Fomentar maior participação dos discentes na vida acadêmica.<br />
+
+O C.A.E.S. do IFAM-CMZL elaborou propostas dentro da realidade vivida pelos alunos e que contemplam nossos interesses frente ao Instituto. Assim, estruturamos nossa gestão buscando contemplar as áreas de Tecnologia, Finanças, Eventos, Comunicação e Cultura e Lazer.
 
 ### Compromissos na área de Tecnologia:
 
@@ -33,12 +34,19 @@ O CAES-IFAM-CMZL elaborou propostas dentro da realidade vivida pelos alunos e qu
 
 4. Divulgar vagas de estágio com empresas interessadas nos alunos do curso (e de possíveis vagas que possam ser de interesse dos estudantes).
 
-<h4> Nos Acompanhe nas Redes: </h4>
-<ul class="social-medias">
-  <li><a href="https://twitter.com/caes_ifam_cmzl"> Twitter </a></li>
-  <li><a href="https://facebook.com/caes_ifam_cmzl"> Facebook </a></li>
-  <li><a href="https://www.instagram.com/caes.ifam/"> Instagram </a></li>
-  <li><a href="https://github.com/caes-ifam-cmzl"> GitHub </a></li>
+### Últimas postagens:
+
+<ul>
+  <li><a href="./posts/mes02-fevereiro/post01-posse-ca.md"> Posse da Chapa </a></li>
 </ul>
 
+<h4> Nos Acompanhe nas Redes: </h4>
+
+&nbsp; <a href="https://twitter.com/caes_ifam_cmzl"><img src="https://img.icons8.com/clouds/452/twitter-squared.png" width=90 heigth=90/></a>
+&nbsp; <a href="https://facebook.com/caes_ifam_cmzl"><img src="https://img.icons8.com/clouds/90/000000/facebook-new.png"/></a>
+&nbsp; <a href="https://www.instagram.com/caes.ifam/"><img src="https://img.icons8.com/clouds/90/4a90e2/instagram-new--v2.png"/></a>
+&nbsp; <a href="https://github.com/caes-ifam-cmzl"><img src="https://img.icons8.com/clouds/90/null/github.png"/></a>
+
 <div> &copy; @CarlosViniMSouza - Desenvolvido com <del>Next.js</del> Markdown </div>
+
+<p> Site em construção ... ⚠️</p>
