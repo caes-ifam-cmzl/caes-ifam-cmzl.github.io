@@ -1,4 +1,4 @@
 git add -A 
-git commit -m "material -> added"
+git commit -m "HTML -> Ok | CSS -> Studying ..."
 git push -u origin main
 git status
